@@ -67,7 +67,7 @@ $foto_profil = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schwei
 
         <div class="p-6 bg-gray-50 border-t border-gray-100 text-center">
              <a href="oppo988638-svg" target="_blank" class="inline-block bg-indigo-600 text-white text-sm px-4 py-2 rounded-full hover:bg-indigo-700 transition duration-150">
-                Lihat GitHub
+                Lihat GitHub.
              </a>
         </div>
 
